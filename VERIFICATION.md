@@ -30,7 +30,7 @@ Verified on 12 October 2026.
 - Laptop and phone breakpoints checked with no page-level horizontal overflow; touch-friendly options and stacked quiz navigation on narrow screens.
 - Temporary preview progress was reset after testing.
 
-The package uses relative assets and JSON URLs, has `.nojekyll`, and requires no build. It has not been uploaded or deployed to a GitHub repository during this task. GitHub Pages deployment steps are in `README.md`.
+The package uses relative assets and JSON URLs, has `.nojekyll`, and requires no application build. GitHub Pages deployment steps are in `README.md`.
 
 ## Bug-fix verification on 12 October 2026
 
@@ -48,4 +48,12 @@ The package uses relative assets and JSON URLs, has `.nojekyll`, and requires no
 - Added `.gitignore` for dependency caches, local settings, personal progress exports, generated screenshots, logs, and OS metadata. Runtime assets, question data, tests, and authoring sources remain included.
 
 Browser screenshots are available locally in `artifacts/mobile-help.jpg` and `artifacts/mobile-navigation.jpg`; generated screenshots are excluded from Git.
+
+## Hosting diagnosis on 13 October 2026
+
+- Local `main` and remote `main` matched at `039b3f6`; the working tree was clean. All runtime files and the 600-question bank were tracked in the repository root.
+- GitHub Pages was enabled for `hst257/Recall`, with `main` and `/ (root)` selected and no custom domain. The public project-site URL returned HTTP 404.
+- GitHub reported zero workflow runs, zero deployments, and zero checks for the initial commit. The browser showed the Actions onboarding page, confirming that no Pages deployment had run.
+- Added `.github/workflows/pages.yml` to validate JavaScript and study logic, package only runtime files, and deploy the artifact on every push to `main` or a manual workflow run. Pages must use the GitHub Actions source described in `README.md`.
+- Added `_site` to `.gitignore` so local deployment artifacts are not committed.
 

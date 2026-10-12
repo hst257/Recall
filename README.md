@@ -16,13 +16,16 @@ Opening `index.html` by double-clicking cannot load the question JSON reliably. 
 
 ## Publish with GitHub Pages
 
-1. Create a GitHub repository. A public repository works with GitHub Free.
-2. Upload **the contents of `recall-study`** into the repository root. `index.html`, `app.js`, `core.js`, `styles.css`, `favicon.svg`, `.nojekyll`, and the `data` folder must be together at that root. `data/bank.json` must be included. The documentation, tests, and tools can also be uploaded.
-3. Open **Settings → Pages**. Under **Build and deployment**, choose **Deploy from a branch**.
-4. Select your branch (usually `main`) and **/(root)**, then save.
-5. When deployment finishes, open the address shown by GitHub, normally `https://YOUR-USERNAME.github.io/YOUR-REPOSITORY/`.
+1. Push **the contents of `recall-study`** to the `main` branch of a GitHub repository. Include `.github/workflows/pages.yml` and all runtime files: `index.html`, `app.js`, `core.js`, `styles.css`, `favicon.svg`, `.nojekyll`, and `data/bank.json`. A public repository works with GitHub Free.
+2. Open **Settings → Pages**. Under **Build and deployment → Source**, choose **GitHub Actions**.
+3. Push a commit to `main`, or open **Actions → Deploy Recall to GitHub Pages → Run workflow** to deploy the current commit.
+4. Wait for both **Validate and package website** and **Publish website** to succeed. Open the site URL from the deployment summary or Pages settings.
 
-For an existing repository, you may instead put the app contents inside `/docs` and choose **/docs** as the publishing folder. Relative asset and data URLs support both GitHub project sites and custom domains. `.nojekyll` lets GitHub serve the static files directly. Follow GitHub’s [publishing-source instructions](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site) and [site-creation guide](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site) if the settings differ.
+This repository's site address is **https://hst257.github.io/Recall/**. Repository names in project-site URLs are case-sensitive; retain the capital `R` in `Recall`.
+
+The included workflow checks JavaScript syntax and runs all study-logic tests before publishing. It packages the runtime files into `_site` and uploads that directory to Pages. Documentation, tests, authoring tools, local backups, and screenshots are not part of the hosted artifact. No package installation, backend, secrets, or custom domain is required. Each push to `main` automatically updates the website.
+
+If the site returns 404, check **Actions** for a completed deployment. Selecting a publishing source alone is not evidence that a deployment has finished. A failed validation step prevents publishing; open the failed step to read its error, fix it, and push again. Relative asset and data URLs support GitHub project sites. See GitHub's [publishing-source instructions](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site) for configuration details.
 
 The original PDFs are not included in this package. They remain in your existing week folders; source citations identify their filenames and PDF page numbers.
 
