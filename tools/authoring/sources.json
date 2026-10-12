@@ -1,0 +1,194 @@
+[
+  {
+    "week": 1,
+    "kind": "assignment",
+    "file": "Assignment 1 Solution - NOC26 HS169.pdf",
+    "pages": 3,
+    "chars": 5027,
+    "sha256": "e4bbd35e505467e9e87c3e947fb46d70711dcc499ed9daf4287909899bf6c074"
+  },
+  {
+    "week": 1,
+    "kind": "notes",
+    "file": "Module 1.pdf",
+    "pages": 15,
+    "chars": 22998,
+    "sha256": "922abae502cd2fb9a55f66eda5018d74721aa8bd8293c9672c007b4d45a80db5"
+  },
+  {
+    "week": 2,
+    "kind": "assignment",
+    "file": "Assignment 2 Solution - NOC26 HS169.pdf",
+    "pages": 3,
+    "chars": 4075,
+    "sha256": "c3fd73b0ec60acb0ee77eb53f19674c1669d00ff0c3455723cfb9a31a5ec62ef"
+  },
+  {
+    "week": 2,
+    "kind": "notes",
+    "file": "Lecture 4-6.pdf",
+    "pages": 17,
+    "chars": 35001,
+    "sha256": "bd5e4e4e8967ce37364ee1abfdb351d46e219368eb1ecc1ef7eb024187ca4f9e"
+  },
+  {
+    "week": 3,
+    "kind": "assignment",
+    "file": "Assignment 3 Solution - NOC26 HS169.pdf",
+    "pages": 3,
+    "chars": 4335,
+    "sha256": "a99e71d01df9ec539875cb1dae17089b4b7c85a113634b617cf56ce1f56d814e"
+  },
+  {
+    "week": 3,
+    "kind": "notes",
+    "file": "Lecture 7-9.pdf",
+    "pages": 23,
+    "chars": 41813,
+    "sha256": "94479b5b3b418772c91aa22c7779d12d111055e54b3a3d4ce188d2bafacca41b"
+  },
+  {
+    "week": 4,
+    "kind": "assignment",
+    "file": "Assignment 4 Solution - NOC26 HS169.pdf",
+    "pages": 3,
+    "chars": 4224,
+    "sha256": "a0f46e29958b8aa9aac4b00591370ddee9b5119926302611dc4b5c8f657d470c"
+  },
+  {
+    "week": 4,
+    "kind": "notes",
+    "file": "Module 4.pdf",
+    "pages": 16,
+    "chars": 30374,
+    "sha256": "1265f56772ee8d6d00e60aac08847c3ca9c53d014f3a0a551291a08240c3def8"
+  },
+  {
+    "week": 5,
+    "kind": "assignment",
+    "file": "Assignment 5 Solution - NOC26 HS169.pdf",
+    "pages": 3,
+    "chars": 3679,
+    "sha256": "9f6c7e2005d3d5d3978b865ab80c688c8546651dad5ce4d69e28d5ac8ce3e4b3"
+  },
+  {
+    "week": 5,
+    "kind": "notes",
+    "file": "Module 5.pdf",
+    "pages": 19,
+    "chars": 33910,
+    "sha256": "50a2e0d27c2b9d303bc79d5cb5a7397a673b4e60cd4aea16008ca631200661fa"
+  },
+  {
+    "week": 6,
+    "kind": "assignment",
+    "file": "Assignment 6 Solution - NOC26 HS169.pdf",
+    "pages": 3,
+    "chars": 3647,
+    "sha256": "42b59cc081f7bce9fbb90dcf068d8f40124d7024f231441803afaa22292094f3"
+  },
+  {
+    "week": 6,
+    "kind": "notes",
+    "file": "Module 6.pdf",
+    "pages": 12,
+    "chars": 23340,
+    "sha256": "fab2621aa4594983d26b1c4f0761cb56fae288703b110cf87cdda086455b23af"
+  },
+  {
+    "week": 7,
+    "kind": "assignment",
+    "file": "Assignment 7 Solution - NOC26 HS169.pdf",
+    "pages": 3,
+    "chars": 4735,
+    "sha256": "cb7da66758dddebd3aed7db0b422fd1864c23f1d253daf60e011c006f9693509"
+  },
+  {
+    "week": 7,
+    "kind": "notes",
+    "file": "Module 7.pdf",
+    "pages": 13,
+    "chars": 27794,
+    "sha256": "63c31822f21d3a7fa62c6dc13d5383ec8931029ade2e1f9bb2ab1d2ef118d14b"
+  },
+  {
+    "week": 8,
+    "kind": "assignment",
+    "file": "Assignment 8 Solution - NOC26 HS169.pdf",
+    "pages": 3,
+    "chars": 3904,
+    "sha256": "4bf907bd3c7d0d306dcf7ca98e001ccd3ce14d3040b1d0a8bcf0caaa6b19346e"
+  },
+  {
+    "week": 8,
+    "kind": "notes",
+    "file": "Module 8.pdf",
+    "pages": 14,
+    "chars": 26113,
+    "sha256": "a5c4b09d209e6ac9e9b68a9c46a5d1a41c3dbe4b90e3b1cded68af369c72a0fc"
+  },
+  {
+    "week": 9,
+    "kind": "assignment",
+    "file": "Assignment 9 Solution - NOC26 HS169.pdf",
+    "pages": 3,
+    "chars": 3630,
+    "sha256": "888ae18203b03c423dafe497cf4de6bc9f00df4fdc7b0d4bf222f676f0449b25"
+  },
+  {
+    "week": 9,
+    "kind": "notes",
+    "file": "Module 9.pdf",
+    "pages": 16,
+    "chars": 30051,
+    "sha256": "35ec459a59b4b5139526d60283a8c59f0430d7e18e6f4287bd5d025b7aeb48e3"
+  },
+  {
+    "week": 10,
+    "kind": "assignment",
+    "file": "Assignment 10 Solution - NOC26 HS169.pdf",
+    "pages": 3,
+    "chars": 3804,
+    "sha256": "acbb816d9d65193be629756e96a9beddec2f18e50e9de15600ed3262125490a8"
+  },
+  {
+    "week": 10,
+    "kind": "notes",
+    "file": "Module 10.pdf",
+    "pages": 14,
+    "chars": 29005,
+    "sha256": "19bdb6b9447f21e9ec2b58b0b027ac118a6547f594337a91a266a65682319e29"
+  },
+  {
+    "week": 11,
+    "kind": "assignment",
+    "file": "Assignment 11 Solution - NOC26 HS169.pdf",
+    "pages": 3,
+    "chars": 3538,
+    "sha256": "f460c9159543761d942233085adeb607017cb72e3f648c429ec9b7816fcfb800"
+  },
+  {
+    "week": 11,
+    "kind": "notes",
+    "file": "Module 11.pdf",
+    "pages": 9,
+    "chars": 19442,
+    "sha256": "651286adae96a8e9bb2005c554867a975a476147d1d480a3be81b7e715416018"
+  },
+  {
+    "week": 12,
+    "kind": "notes",
+    "file": "Module 12.pdf",
+    "pages": 13,
+    "chars": 24856,
+    "sha256": "1f4c003476718227e1bb03e6f4f1a3399e6f497cb169fc5a4b6092c22c9bdf50"
+  },
+  {
+    "week": 12,
+    "kind": "assignment",
+    "file": "Solution 12.pdf",
+    "pages": 2,
+    "chars": 0,
+    "sha256": "b4aaa182508636d9bdc0b10a4fe3e553bd90ae7425cf67c147c8a8528d219d88"
+  }
+]

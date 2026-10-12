@@ -1,0 +1,23 @@
+# Local development dependencies and Python caches
+node_modules/
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Local settings and exported personal progress
+.env
+.env.*
+!.env.example
+recall-progress-*.json
+
+# Generated browser verification screenshots and temporary output
+/artifacts/
+/.tmp/
+*.log
+
+# Operating-system metadata
+.DS_Store
+Thumbs.db
+Desktop.ini

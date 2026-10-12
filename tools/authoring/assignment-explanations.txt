@@ -1,0 +1,96 @@
+1|1|5|particular relationship|Appraisal makes stress a dynamic relationship between the person and environment: demands are seen as taxing resources and threatening well-being.
+1|2|7|follows an earlier appraisal|Reappraisal follows and modifies an earlier appraisal using feedback from the situation and one's coping efforts.
+1|3|9|cultural background|Culture shapes beliefs and norms, which can change how the same event is appraised as stressful.
+1|4|7|Harm-loss appraisals|Harm-loss concerns damage already occurring or completed; threat concerns possible future harm. Their time orientations differ.
+1|5|12|Pressure to conform|Conformity pressure concerns meeting other people's values and rules; performance pressure concerns completing tasks successfully.
+1|6|13|quick reaction|SAM rapidly activates the adrenal medulla and releases catecholamines. The HPA pathway is described as slower.
+1|7|13|corticosteroids|The HPA pathway stimulates the adrenal cortex through ACTH, leading to corticosteroid release, including cortisol.
+1|8|14|nurturant activities|Taylor's tend-and-befriend model emphasizes nurturing dependents and maintaining social networks to aid protection and reduce distress.
+2|1|1|Psychosomatic diseases|Psychosomatic diseases are physical conditions caused or worsened by mental factors such as stress, anxiety, or depression.
+2|2|3|promotes atherosclerosis|The notes describe physiological arousal and stress-hormone effects on plaque buildup as possible cardiovascular pathways.
+2|3|4|no evidence of blocked|Broken heart syndrome can resemble a heart attack in symptoms, but the notes distinguish it by the lack of blocked heart arteries.
+2|4|5|twice as likely|The cited longitudinal study found Type A participants twice as likely to develop CHD as Type B participants. This is the reported study result.
+2|5|7|interdisciplinary field|Psychoneuroimmunology studies interactions among psychological influences, neurological processes, and immune function.
+2|6|8|redistribution of immune cells|The biphasic model proposes acute stress can mobilize immune cells, whereas chronic stress can exhaust resources and suppress immunity.
+2|7|12|lasting less than a month|The course distinguishes ASD as an early, shorter-duration reaction and PTSD as symptoms persisting beyond a month.
+2|8|16|repeated, prolonged|Complex PTSD is especially associated in the notes with sustained interpersonal trauma, rather than only a single event.
+3|1|2|necessary but not sufficient|Coping supports adjustment but does not guarantee transformative growth. PTG arises through struggling with new realities after trauma.
+3|2|3|bounce back|Resilience concerns stability or bouncing back; PTG concerns profound positive change beyond the prior baseline.
+3|3|4|pre-requisite|The theoretical model treats some posttraumatic distress as part of the struggle that can support growth. Growth and distress can coexist.
+3|4|20|avoidance coping|External locus of control is linked here to avoidance and resignation. Internal control is associated with help-seeking and positive thinking.
+3|5|21|Lack of efforts|Effort is internal, can vary over time, and can be influenced. The notes contrast it with ability, treated as stable and uncontrollable in the example.
+3|6|17|hardiness differentiated|The employees who thrived after deregulation differed in psychological hardiness, characterized by commitment, control, and challenge.
+3|7|19|luck, chance|External locus of control attributes outcomes to outside influences such as luck or powerful others, rather than personal action.
+3|8|11|inherent tendencies|Organismic valuing theory builds on humanistic assumptions that people have inherent tendencies toward growth and actualization.
+4|1|2|expression of negative emotion|Expressing negative emotion serves an emotion-focused function because it addresses distress rather than directly changing the stressor.
+4|2|2|facilitate one another|Problem-solving can reduce distress, while managing distress can make problem-solving calmer and more effective.
+4|3|3|behavioral inhibition system|Neuroticism is linked to behavioral inhibition and greater avoidance in the notes; optimism and extraversion are contrasted with it.
+4|4|4|giving up/avoidance|Learned helplessness describes passivity after repeated uncontrollable events, sometimes continuing even when effective action becomes possible.
+4|5|7|unconscious mental processes|The listed properties describe defenses as unconscious, distinct, dynamic, and potentially adaptive or pathological. Conscious deliberate processing is not the listed property.
+4|6|9|overly idealistic|A dominant super-ego emphasizes ideal moral standards and can be overly moralistic and judgmental. D gives the full description used by the notes.
+4|7|9|consciously remove|Repression is unconscious blocking, whereas suppression deliberately puts unpleasant thoughts or feelings out of awareness.
+4|8|14|Changeable situation|CET matches problem-focused coping to changeable demands and emotion-focused coping to unchangeable situations.
+5|1|1|activate parasympathetic|Slow deep abdominal breathing is described as increasing parasympathetic activity and producing a calming response.
+5|2|2|two step process|PMR systematically tenses and then relaxes muscle groups, using the contrast between the two states to develop relaxation.
+5|3|6|automatic habitual|The course describes catastrophic thinking as based on irrational assumptions and as automatic, habitual, and unconscious.
+5|4|6|automatic habitual|Conscious deliberate thought is the opposite of the automatic habitual pattern attributed to catastrophic thinking in these notes.
+5|5|5|changing our thinking patterns|Ellis's REBT links emotional experience to beliefs and self-talk, so changing irrational beliefs can change feelings.
+5|6|9|Tangible support|Tangible support is practical or material assistance, such as money, goods, or services. Advice is informational and empathy is emotional support.
+5|7|11|hard to imagine|The inner convoy circle represents the closest people, whose presence is especially central to one's life.
+5|8|15|three components of|Shapiro's components concern the purpose of practice, what attention observes, and the qualities with which attention is paid.
+6|1|3|SWB consists|SWB combines life evaluation with positive and negative emotional experience; autonomy and growth belong to eudaimonic functioning.
+6|2|3|hot systems|The notes associate hedonic pleasure-seeking with older subcortical hot systems and self-reflective eudaimonic processes with cerebral cold systems.
+6|3|4|languishing|Languishing combines low SWB with low psychological and social functioning; flourishing involves high well-being and optimal functioning.
+6|4|3|subjective well-being|Hedonic well-being is called subjective well-being. It focuses on affect and life satisfaction rather than the full range of positive functioning.
+6|5|3|positive functioning|Growth, autonomy, and meaning concern functioning and realization of potential, central to the eudaimonic tradition.
+6|6|8|both hedonic and eudaimonic|PERMA combines pleasant emotion with engagement, relationships, meaning, and accomplishment, spanning both well-being traditions.
+6|7|9|intensely focused|Engagement concerns absorbed participation in a task that uses skills and strengths, often described as flow.
+6|8|7|two defining aspects|Resilience requires exposure to significant adversity and positive adaptation despite that adversity.
+7|1|2|Four qualities of life|Veenhoven's four qualities are livability, life-ability, utility, and satisfaction with life. Meaning in life is not separately named in this fourfold list.
+7|2|4|predictions about emotional reactions|Affective forecasting predicts future feelings. People often judge pleasantness more accurately than intensity or duration.
+7|3|4|other events will influence|Focalism overweights one event's future salience and underweights the effects of other events on thoughts and feelings.
+7|4|6|is weak|The notes describe weak associations between SWB and traditional objective indicators, despite some positive income relationships.
+7|5|6|at a point in time|Easterlin's paradox contrasts a positive income-happiness relationship at a time with the absence of a corresponding long-term national happiness increase.
+7|6|7|proportional increase|A proportional income increase leaves relative positions similar, so average happiness need not rise in the social-comparison explanation.
+7|7|11|thought–action repertoires|Broaden-and-build theory proposes that positive emotions expand attention and possible actions, supporting resource development.
+7|8|12|approx. 3:1|The supplied notes associate the quoted 3:1 positivity ratio with an upward spiral and flourishing. This is the specific course claim being tested.
+8|1|2|emotional effects|Hedonic adaptation means becoming accustomed to a stimulus so its emotional impact decreases over time.
+8|2|3|rate of adaptation|The explaining stage makes sense of an event, and in the AREA model this helps determine how quickly adaptation occurs.
+8|3|4|severe disability|The cited longitudinal studies reported particularly persistent reductions in SWB after severe disability, with limited rebound.
+8|4|2|negatively correlated with neuroticism|Neuroticism is negatively associated with SWB in the notes, while extraversion is positively associated.
+8|5|4|complete and faster|The notes describe adaptation as generally faster and more complete for positive experiences, while findings for negative events vary.
+8|6|7|8% to 15%|The course reports circumstances accounting for 8–15% of happiness variance across people. This is not an individual-level happiness formula.
+8|7|8|behavioral, cognitive and volitional|Intentional activities include actions, ways of thinking, and motivated pursuit of value-concordant goals.
+8|8|9|influence their own happiness|The model's retained idea is that effortful chosen activities can affect happiness, despite genetics, circumstances, adaptation, and criticism of exact percentages.
+9|1|2|decreases upward social comparison|The incorrect statement says gratitude increases upward comparison. The notes instead link gratitude with reduced envy and comparison, coping, self-esteem, and positive memories.
+9|2|3|writing about it|A gratitude journal records things one appreciates. Direct thanks and letters are other gratitude practices, not the definition of journaling.
+9|3|5|narcissism|Narcissistic entitlement can impede gratitude by treating others' generosity as an expected privilege rather than something to appreciate.
+9|4|10|need for relatedness|Kindness can strengthen social connection and satisfy the need for relatedness, alongside other possible positive effects.
+9|5|8|expect to meet again|Reciprocal altruism predicts more helping when future interaction and return of favors are plausible.
+9|6|11|freely and autonomously|The notes emphasize freely chosen helping for maximum benefit; forced help or ignoring recipients' preferences can undermine the effect.
+9|7|14|Negative self-evaluation|Downward assimilation moves self-evaluation toward a worse-off target and is paired with negative self-evaluation in the matrix.
+9|8|15|decreases in SWB|The notes report a general negative SWB association for social-media comparisons, while also acknowledging exceptions such as inspirational upward assimilation.
+10|1|2|cue from DSM|VIA was inspired by the classification approach of the DSM, applying classification to strengths and virtues rather than disorders.
+10|2|3|larger universe|Transcendence includes strengths that connect people to a larger universe, such as gratitude, hope, humor, and religiousness.
+10|3|3|social intelligence|Social intelligence concerns awareness of motives and feelings in oneself and others, and is grouped under humanity.
+10|4|4|strengths of heart|The cited research links relational heart strengths such as love and gratitude more strongly with well-being than more individual head strengths.
+10|5|6|Talents exists naturally|Talent is a natural recurring capacity; skills and knowledge are acquired and refine talents into strengths.
+10|6|11|high on|Flow is described as a high-challenge, high-skill state. Excess challenge can cause anxiety; insufficient challenge can cause boredom.
+10|7|11|autotelic|Autotelic activities are enjoyable and intrinsically motivated, with an end in themselves rather than only an external reward.
+10|8|11|housework|The course lists housework and watching TV among activities less likely to produce flow, compared with skill-using challenging pursuits.
+11|1|3|growth or being need|Maslow treats self-actualization as a growth or being need, distinguished from lower deficit needs.
+11|2|3|stuck in fulfilling lower needs|Attention and energy spent on unmet lower needs can constrain pursuit of self-actualization, though the notes acknowledge flexibility in the hierarchy.
+11|3|4|societal conditionings|Rogers's account describes ideals shaped by social conditioning that can become inconsistent with actualizing tendencies.
+11|4|4|sufferings and neurosis|The supplied course uses the term neurosis for suffering associated with inconsistency between real and ideal self.
+11|5|5|Self-determination theory|SDT explains motivation through satisfaction of autonomy, competence, and relatedness, supporting growth and autonomous regulation.
+11|6|7|Identification and integration|The student personally values the instrumental outcome of college admission. The assignment classifies this accepted importance as identification rather than intrinsic enjoyment.
+11|7|8|need fulfillment promotes|Meeting basic psychological needs supports the internalization of extrinsic motivation and more autonomous regulation.
+11|8|7|Identification and integration|Identification and integration are the more internalized autonomous extrinsic forms named in the notes; they remain distinct from intrinsic motivation.
+12|1|3|motivational component|Purpose involves future-oriented goals and direction, making it the motivational component of meaning in life.
+12|2|6|Life has meaning|Frankl's logotherapy includes the principle that meaning remains possible even in miserable or unchangeable circumstances.
+12|3|3|worthwhileness|Significance or mattering concerns the perceived value, worth, and lasting importance of one's life.
+12|4|4|mutually influence|Comprehension, purpose, and mattering are distinct but can reinforce or weaken one another rather than being independent.
+12|5|7|choose one's attitude|Frankl emphasizes the capacity to choose one's attitude and response even when external conditions cannot be changed.
+12|6|6|creating a work|Creating work or performing a deed is one route to meaning, alongside experience or encounter and one's attitude toward unavoidable suffering.
+12|7|10|adapted to them quickly|The notes suggest satisfaction from extrinsic goal attainment may fade as people adapt to the gain.
+12|8|9|natural growth tendencies|Intrinsic goals are linked to growth and psychological needs; extrinsic goals are more strongly shaped by cultural and social norms.
