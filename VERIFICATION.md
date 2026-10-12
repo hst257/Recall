@@ -56,4 +56,7 @@ Browser screenshots are available locally in `artifacts/mobile-help.jpg` and `ar
 - GitHub reported zero workflow runs, zero deployments, and zero checks for the initial commit. The browser showed the Actions onboarding page, confirming that no Pages deployment had run.
 - Added `.github/workflows/pages.yml` to validate JavaScript and study logic, package only runtime files, and deploy the artifact on every push to `main` or a manual workflow run. Pages must use the GitHub Actions source described in `README.md`.
 - Added `_site` to `.gitignore` so local deployment artifacts are not committed.
+- Changed the repository's Pages source to GitHub Actions and pushed deployment commit `7f11cbd`. [Workflow run 1](https://github.com/hst257/Recall/actions/runs/38294266217) completed successfully: validation and packaging passed, then the Pages deployment passed.
+- Verified the public site at [https://hst257.github.io/Recall/](https://hst257.github.io/Recall/) returns HTTP 200 and loads all 600 questions. Hosted question search returned the expected 11 mindfulness matches; question-bank navigation survived refresh; original-assignment practice graded the correct answer and preserved checked feedback after refresh. The hosted browser reported no console warnings or errors.
+- Cleared only the temporary hosted-test progress from the isolated in-app browser. The live page remains open for use, with local proof in `artifacts/github-pages-live.jpg`.
 
