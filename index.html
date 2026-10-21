@@ -1,13 +1,14 @@
 <!doctype html>
-<html lang="en">
+<html lang="en" data-theme="dark">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="theme-color" content="#214e40">
+  <meta name="theme-color" content="#101713">
   <meta name="description" content="Week-by-week MCQ practice for Psychology of Stress, Health and Well-Being. Practice, review, and build confidence.">
   <title>Recall — NPTEL study practice</title>
   <link rel="icon" href="./favicon.svg" type="image/svg+xml">
-  <link rel="stylesheet" href="./styles.css?v=3">
+  <script src="./theme.js?v=1"></script>
+  <link rel="stylesheet" href="./styles.css?v=4">
   <script src="./app.js?v=3" type="module"></script>
 </head>
 <body>
@@ -26,7 +27,7 @@
       <div class="sidebar-bottom"><span class="status-dot" aria-hidden="true"></span> Saved on this device<p>Small sessions. Steady progress.</p></div>
     </aside>
     <div class="workspace">
-      <header class="topbar"><span id="view-label">Practice / Your weeks</span><span class="local-label">12 weeks <span aria-hidden="true">·</span> One focused session at a time</span><button class="text-button" id="help" disabled>About this question bank</button></header>
+      <header class="topbar"><span id="view-label">Practice / Your weeks</span><span class="local-label">12 weeks <span aria-hidden="true">·</span> One focused session at a time</span><div class="header-actions"><button class="text-button" id="help" disabled>About this question bank</button><button class="theme-toggle" id="theme-toggle" type="button" aria-label="Switch to light mode" title="Switch to light mode"><svg class="theme-sun" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" aria-hidden="true"><circle cx="12" cy="12" r="4"/><path d="M12 2v2m0 16v2M2 12h2m16 0h2M5 5l1.5 1.5m11 11L19 19M5 19l1.5-1.5m11-11L19 5"/></svg><svg class="theme-moon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" aria-hidden="true"><path d="M20.5 14.1A8.5 8.5 0 0 1 9.9 3.5 8.5 8.5 0 1 0 20.5 14.1Z"/></svg><span id="theme-label">Light mode</span></button></div></header>
       <main id="main" tabindex="-1"><div class="loading">Getting your question bank ready…</div></main>
       <footer>Recall <span aria-hidden="true">/</span> Built for practice. Progress stays in your browser.</footer>
     </div>

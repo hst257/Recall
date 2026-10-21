@@ -16,7 +16,7 @@ Opening `index.html` by double-clicking cannot load the question JSON reliably. 
 
 ## Publish with GitHub Pages
 
-1. Push **the contents of `recall-study`** to the `main` branch of a GitHub repository. Include `.github/workflows/pages.yml` and all runtime files: `index.html`, `app.js`, `core.js`, `styles.css`, `favicon.svg`, `.nojekyll`, and `data/bank.json`. A public repository works with GitHub Free.
+1. Push **the contents of `recall-study`** to the `main` branch of a GitHub repository. Include `.github/workflows/pages.yml` and all runtime files: `index.html`, `app.js`, `core.js`, `theme.js`, `styles.css`, `favicon.svg`, `.nojekyll`, and `data/bank.json`. A public repository works with GitHub Free.
 2. Open **Settings → Pages**. Under **Build and deployment → Source**, choose **GitHub Actions**.
 3. Push a commit to `main`, or open **Actions → Deploy Recall to GitHub Pages → Run workflow** to deploy the current commit.
 4. Wait for both **Validate and package website** and **Publish website** to succeed. Open the site URL from the deployment summary or Pages settings.
@@ -30,6 +30,8 @@ If the site returns 404, check **Actions** for a completed deployment. Selecting
 The original PDFs are not included in this package. They remain in your existing week folders; source citations identify their filenames and PDF page numbers.
 
 ## Study with it
+
+Dark mode is the default. Use the sun/moon button in the header to switch between light and dark mode. Your choice is remembered in this browser and applied before the page renders. Theme controls are also available on mobile.
 
 - Select one week, several weeks, or all 12. Choose original assignments, notes questions, or both.
 - **Practice:** select an answer and check it to see the correct answer, explanation, and source evidence. Checked answers lock and count once. You can save and resume an unfinished session after refreshing or closing the page.
@@ -65,7 +67,7 @@ The app needs none of these developer dependencies at runtime. Rebuilding checks
 
 | File/folder | Purpose |
 |---|---|
-| `index.html`, `styles.css`, `app.js`, `core.js` | Website and study logic |
+| `index.html`, `styles.css`, `app.js`, `core.js`, `theme.js` | Website, study logic, and saved theme preference |
 | `data/bank.json` | All 600 questions, keys, explanations, and citations |
 | `CONTENT_REPORT.md` | Coverage and source-quality audit |
 | `tools/` | Rebuild script, extraction script, reviewed seeds, source hashes |

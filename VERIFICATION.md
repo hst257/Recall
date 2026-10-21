@@ -60,3 +60,13 @@ Browser screenshots are available locally in `artifacts/mobile-help.jpg` and `ar
 - Verified the public site at [https://hst257.github.io/Recall/](https://hst257.github.io/Recall/) returns HTTP 200 and loads all 600 questions. Hosted question search returned the expected 11 mindfulness matches; question-bank navigation survived refresh; original-assignment practice graded the correct answer and preserved checked feedback after refresh. The hosted browser reported no console warnings or errors.
 - Cleared only the temporary hosted-test progress from the isolated in-app browser. The live page remains open for use, with local proof in `artifacts/github-pages-live.jpg`.
 
+## Dark-mode verification on 21 October 2026
+
+- Added a default dark palette across the dashboard, question bank, progress tables, forms, dialogs, answer feedback, and notifications. The optional light palette uses the same component color tokens.
+- Added a keyboard-accessible sun/moon control in the header. Theme choice is applied before styles render and saved independently from study progress. A fresh browser preference defaults to dark; light and dark choices both survive refresh.
+- Verified that theme changes synchronize across tabs without triggering progress-conflict warnings, and that switching themes preserves checked answers.
+- Checked 390px and 320px viewports without horizontal overflow. The theme control remains available with an accessible label when its text is hidden on mobile.
+- Verified distinct dark correct/wrong answer backgrounds and dark modal surfaces. Eight main dark-theme text/background pairs meet at least 4.5:1 contrast; all CSS color-token references resolve.
+- All 16 study-logic tests pass; the new theme script passes JavaScript syntax validation. Browser checks reported no warnings or errors.
+- Updated Pages packaging to include `theme.js` and validate its syntax before deployment.
+

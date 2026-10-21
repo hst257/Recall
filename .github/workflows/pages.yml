@@ -30,11 +30,12 @@ jobs:
         run: |
           node --check app.js
           node --check core.js
+          node --check theme.js
           npm test
       - name: Package website files
         run: |
           mkdir -p _site/data
-          cp index.html app.js core.js styles.css favicon.svg .nojekyll _site/
+          cp index.html app.js core.js theme.js styles.css favicon.svg .nojekyll _site/
           cp data/bank.json _site/data/
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
